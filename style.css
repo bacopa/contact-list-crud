@@ -1,0 +1,48 @@
+#{
+	padding: 20px;
+}
+.row {
+	padding: 20px;
+}
+.row div {
+	
+	min-height: 50px;
+	/*padding: 20px;*/
+}
+
+button.btn,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+	outline: none;
+}
+
+.col-xs-8, .card {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.info-style {
+	border: solid 1px gray;
+}
+
+.card {
+	max-width: 575px;
+	margin: 3px;
+}
+
+.form-group {
+	margin: 10px; 
+}
+
+#contactHeader, #newContactBtn {
+	display: inline;
+}
+
+
+#newContactBtn {
+	position: absolute;
+	top: 20px;
+	right: 1%;
+}
+
+.card-template {
+	display: none;
+}
